@@ -33,5 +33,5 @@ This is a text-editor pwa that allows a user to store text in an online browser 
 
   ## Questions
 
-  -github.com/Luan-Pham
+  [-github.com/Luan-Pham](https://github.com/Luan-Pham)
   -phamexb@gmail.com
