@@ -9,18 +9,13 @@ This is a text-editor pwa that allows a user to store text in an online browser 
 ## Table of Contents
 
 - [Installation](#install)
-- [Usage](#usage)
-- [Credits](#contribute)
+
 - [License](#license)
 
   ## Install
 
   The application is deployed on the heroku and the user can click [Here](http://intense-garden-34432.herokuapp.com) in order to use it in the web browser. The user can also click on the install button on the app to install it on their device.
-  
 
-  ## Usage
-
-  ## Credit
 
   ## License
 
