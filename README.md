@@ -28,4 +28,8 @@ This is a text-editor pwa that allows a user to store text in an online browser 
   ## Questions
 
   [-github.com/Luan-Pham](https://github.com/Luan-Pham)
-  -phamexb@gmail.com
+  -phamexb@gmail.com!
+  
+  [PWA demo](https://user-images.githubusercontent.com/105967807/200139322-d61164e1-b369-410c-a4e6-882cf8770917.png)
+
+
